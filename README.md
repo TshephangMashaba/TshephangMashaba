@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tshephang-mashaba-3b2a3b1b0/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:tshephangmashaba02@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-Francina%20Design-brightgreen?style=for-the-badge)](https://www.francinadesign.co.za/)
 
 ## 📊 GitHub Stats
 
